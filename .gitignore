@@ -1,2 +1,11 @@
 *.doc
 *.docx
+*.log
+*.toc
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.lof
+*.lot
+*.out
