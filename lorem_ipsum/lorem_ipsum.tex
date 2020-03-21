@@ -5,6 +5,8 @@
 
 %Packages used:
 
+\usepackage[bottom]{footmisc} %footnote always at the bottom
+
 \usepackage[utf8]{inputenc} %Always utf-8
 
 \usepackage{hyperref} %Adds hyperlinks
@@ -17,6 +19,7 @@
 }
 
 \usepackage{graphicx} %Adds images
+\usepackage[english,brazilian]{babel}
 \usepackage{xcolor} %Changes text color
 \graphicspath{ {images/} } % Path to images folder
 \usepackage{multicol} %Environments with multiple columns
@@ -31,7 +34,8 @@
 \lstset{
 basicstyle=\small\ttfamily, %ttfamily is the typewriter font family used in LaTeX
 columns=flexible,
-breaklines=true
+breaklines=true,
+backgroundcolor=\color{gray!10}
 }
 
 
@@ -47,6 +51,29 @@ breaklines=true
 \newcommand{\visible}[1]{\textbf{\textcolor{blue}{#1}}} %My first macro! It highlights some text.
 
 \newcommand{\lightgray}{gray!20}
+
+\newenvironment{myminipage}{
+	\bigskip\begin{minipage}{\linewidth}
+	}{
+\end{minipage}\bigskip}
+
+\newenvironment{boxed}
+{\begin{tabular}{|p{\textwidth}|}
+			\hline\\
+		}
+		{ 
+			\\\\\hline
+		\end{tabular}
+}
+
+\lstnewenvironment{rawlatex}{
+	\lstset{
+		basicstyle=\small\ttfamily,
+		columns=flexible,
+		breaklines=true,
+		backgroundcolor=\color{gray!10}
+	}
+	}{}
 
 \title{First document: \textit{Lorem Ipsum}\thanks{This template would not be completed without the \href{https://www.overleaf.com/}{Overleaf} \LaTeX{} editor and tutorials (from which a great part of this document has been ripped)} }
 \author{Gabriel Alves Vieira (gavieira)\\
@@ -97,7 +124,7 @@ Contact: \href{mailto:gabrieldeusdeth@gmail.com}{gabrieldeusdeth@gmail.com} }
 \begin{figure}[H] % The H says that the image should NECESSARILY be placed HERE! (Needs float package to work in this multi-column env)
 \centering
 \includegraphics[width=0.5\linewidth]{ipsum_logo}
-\caption{\textit{Lorem ipsum} is part of pop culture\centering}
+\caption[Shorter imagename]{\textit{Lorem ipsum} is part of pop culture\centering}
 \end{figure}
 
 
@@ -133,7 +160,88 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 \newpage
 
-\section{Let's play with \LaTeX{}!}
+\section{Basic  \LaTeX{}!}
+\subsection{Images}
+\subsubsection{Adding Images}
+
+We will now look at how to add images to a LATEX document. On Overleaf, you will first have to \href{https://www.overleaf.com/learn/how-to/Including_images_on_Overleaf}{upload the images}.
+
+\begin{myminipage}
+Below is a example on how to include a picture: \\
+\begin{rawlatex}
+\documentclass{article}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+	The universe is immense and it seems to be homogeneous, 
+	in a large scale, everywhere we look at.
+	
+	\includegraphics{universe}
+	
+	There's a picture of a galaxy above
+	
+\end{document}
+\end{rawlatex}
+
+Which outputs the following: \\
+
+The universe is immense and it seems to be homogeneous, 
+in a large scale, everywhere we look at.
+
+\includegraphics{universe}
+
+There's a picture of a galaxy above \\
+
+\end{myminipage}	
+
+\LaTeX{} can not manage images by itself, so you will need to use a package. Packages can be used to change the default look of your \LaTeX{} document, or to allow more functionalities. In this case, you need to include an image in our document, so you should use the graphicx package. This package gives new commands, \lstinline!\includegraphics{...}! and \lstinline!\graphicspath{...}!. To use the graphicx package, include the following line in you preamble: \lstinline!\usepackage{graphicx}!
+
+The command \verb+\graphicspath{ {images/} }+ tells LATEX that the images are kept in a folder named images under the current directory.
+The \verb+\includegraphics{universe}+ command is the one that actually included the image in the document. Here universe is the name of the file containing the image without the extension, then universe.PNG becomes universe. The file name of the image should not contain white spaces nor multiple dots\footnote{The file extension is allowed to be included, but it's a good idea to omit it. If the file extension is omitted it will prompt \LaTeX{} to search for all the supported formats. It is also usually recommended to use lowercase letters for the file extension when uploading image files. For more details see the section about \href{https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes\#Generating_high-res_and_low-res_images}{generating high resolution and low resolution images}.}
+
+
+
+\subsubsection{Captions, Labels and References}
+
+Images can be captioned, labelled and referenced by means of the figure environment as shown below:\\
+
+\begin{myminipage}
+	Below is a example on how to include a picture: \\
+	\begin{rawlatex}
+		\begin{figure}[H]
+			\centering
+			\includegraphics[width=0.25\textwidth]{mesh}
+			\caption{a nice plot}
+			\label{fig:mesh1}
+		\end{figure}
+		
+		As you can see in the figure \ref{fig:plot1}, the 
+		function grows near 0. Also, in the page \pageref{fig:plot1} 
+		is the same example.
+	\end{rawlatex}
+	
+	\begin{figure}[H]
+		\centering
+		\includegraphics[width=0.25\textwidth]{plot}
+		\caption{a nice plot}
+		\label{fig:plot1}
+	\end{figure}
+	
+	As you can see in the figure \ref{fig:plot1}, the 
+	function grows near 0. Also, in the page \pageref{fig:plot1} 
+	is the same example.
+\end{myminipage}
+
+There are three important commands in the example:
+\begin{itemize}
+	\setlength{\itemindent}{3em}
+	\item \verb+\caption{a nice plot}+: As you may expect this command sets the caption for the figure. If you create a list of figures this caption will be used there. You can place it above or below the figure.
+	\item \verb+\label{fig:mesh1}+: If you need to refer the image within your document, set a label with this command. The label will number the image, and combined with the next command will allow you to reference it.
+	\item \verb+\ref{fig:mesh1}+: This code will be substituted by the number corresponding to the referenced figure.
+\end{itemize}
+
+When placing images in a LATEX document, we should always put them inside a figure environment or similar so that LATEX will position the image in a way that fits in with the rest of your text\footnote{If you are using captions and references on your own computer, you will have to compile the document twice for the references to work. Overleaf will do this for you automatically}.
+
 \subsection{Lists}
     Lists are very simple to create in LaTeX. You can create lists using different list environments. Environments are sections of our document that you want to present in a different way to the rest of the document. They start with a \verb=\begin{...}= command and end with an \verb=\end{...}= command. 
     \subsubsection{Unordered Lists}
@@ -148,8 +256,8 @@ There are many variations of passages of Lorem Ipsum available, but the majority
     \end{lstlisting}
     \end{minipage}\bigskip
     
-    For instance:\bigskip
-    
+    \begin{minipage}{\linewidth}
+    For instance:\\\\
     \fcolorbox{\lightgray}{\lightgray}{
     \begin{minipage}{\linewidth}
     \paragraph{Compras:}
@@ -166,7 +274,9 @@ There are many variations of passages of Lorem Ipsum available, but the majority
         \end{itemize}
     \end{itemize}
     \end{minipage}}
-    
+    \end{minipage}
+
+
     \fcolorbox{\lightgray}{\lightgray}{
     \begin{minipage}{\linewidth}
     \paragraph{Sonhos:}
@@ -501,12 +611,13 @@ Table \ref{table:data} is an example of referenced \LaTeX{} elements\footnote{If
 
 \newpage
 
-\subsection{Paragraphs and new lines}
+\subsection{Paragraphs and new lines - unfinished}
 \label{subsec:Parag-nwl}
+This subsection will eventually be written
 
 
-\subsubsection*{Citation:}
-\blindtext[1]
+\subsubsection{Citation - unfinished}
+This subsection will eventually be written
 
 
 \end{document}
