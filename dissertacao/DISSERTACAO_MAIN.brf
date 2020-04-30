@@ -1,42 +1,49 @@
-\backcite {Margulies2005}{{19}{1}{chapter.1}}
-\backcite {Mardis2008, Goodwin2016}{{19}{1}{chapter.1}}
-\backcite {Mardis2008, Goodwin2016}{{19}{1}{chapter.1}}
-\backcite {Karsch-Mizrachi2018, Cochrane2006}{{19}{1}{chapter.1}}
-\backcite {Karsch-Mizrachi2018, Cochrane2006}{{19}{1}{chapter.1}}
-\backcite {Kodama2012}{{19}{1}{chapter.1}}
-\backcite {Stodden2018}{{19}{1}{chapter.1}}
-\backcite {Bordbari2017}{{19}{1}{chapter.1}}
-\backcite {Simpson2009, Langmead2012, Bolger2014}{{19}{1}{chapter.1}}
-\backcite {Simpson2009, Langmead2012, Bolger2014}{{19}{1}{chapter.1}}
-\backcite {Simpson2009, Langmead2012, Bolger2014}{{19}{1}{chapter.1}}
-\backcite {DelFabbro2013}{{19}{1}{chapter.1}}
-\backcite {Kayal2015, Bernstein2017, Linard2018}{{19}{1}{chapter.1}}
-\backcite {Kayal2015, Bernstein2017, Linard2018}{{19}{1}{chapter.1}}
-\backcite {Kayal2015, Bernstein2017, Linard2018}{{19}{1}{chapter.1}}
-\backcite {Rubin2016, Wirthlin2018}{{23}{1.1}{figure.1.1}}
-\backcite {Rubin2016, Wirthlin2018}{{23}{1.1}{figure.1.1}}
-\backcite {Brand1997}{{32}{1.4}{section.1.4}}
-\backcite {Wanet2015}{{32}{1.4}{section.1.4}}
-\backcite {Chan2006}{{32}{1.4}{section.1.4}}
-\backcite {Gray2017}{{32}{1.4}{section.1.4}}
-\backcite {Gray1999, Kutschera2005}{{32}{1.4}{section.1.4}}
-\backcite {Gray1999, Kutschera2005}{{32}{1.4}{section.1.4}}
-\backcite {Boore1999}{{32}{1.4}{section.1.4}}
-\backcite {Adams2003}{{32}{1.4}{section.1.4}}
-\backcite {Wolstenholme1992, Boore1999}{{32}{1.4}{section.1.4}}
-\backcite {Wolstenholme1992, Boore1999}{{32}{1.4}{section.1.4}}
-\backcite {Smith2016}{{32}{1.4}{section.1.4}}
-\backcite {Finstermeier2013, Krzeminska2018}{{32}{1.4}{section.1.4}}
-\backcite {Finstermeier2013, Krzeminska2018}{{32}{1.4}{section.1.4}}
-\backcite {DoAmaral2015, Miller2016}{{33}{1.4}{section.1.4}}
-\backcite {DoAmaral2015, Miller2016}{{33}{1.4}{section.1.4}}
-\backcite {Janzen1966}{{36}{1.6}{section.1.6}}
-\backcite {Janzen1966}{{36}{1.6}{section.1.6}}
-\backcite {Ward1991}{{36}{1.6}{section.1.6}}
-\backcite {Ward1991}{{36}{1.6}{section.1.6}}
-\backcite {Janzen1966, Ward1991}{{36}{1.6}{section.1.6}}
-\backcite {Janzen1966, Ward1991}{{36}{1.6}{section.1.6}}
-\backcite {Bernt2013}{{38}{5}{figure.1.5}}
-\backcite {Dierckxsens2016}{{42}{3.2}{section.3.2}}
-\backcite {Dierckxsens2016}{{42}{3.2}{section.3.2}}
-\backcite {Cochrane2006}{{47}{4.1}{section.4.1}}
+\backcite {Margulies2005}{{18}{1}{chapter.1}}
+\backcite {Mardis2008, Goodwin2016}{{18}{1}{chapter.1}}
+\backcite {Mardis2008, Goodwin2016}{{18}{1}{chapter.1}}
+\backcite {Karsch-Mizrachi2018, Cochrane2006}{{18}{1}{chapter.1}}
+\backcite {Karsch-Mizrachi2018, Cochrane2006}{{18}{1}{chapter.1}}
+\backcite {Kodama2012}{{18}{1}{chapter.1}}
+\backcite {Stodden2018}{{18}{1}{chapter.1}}
+\backcite {Bordbari2017}{{18}{1}{chapter.1}}
+\backcite {Simpson2009, Langmead2012, Bolger2014}{{18}{1}{chapter.1}}
+\backcite {Simpson2009, Langmead2012, Bolger2014}{{18}{1}{chapter.1}}
+\backcite {Simpson2009, Langmead2012, Bolger2014}{{18}{1}{chapter.1}}
+\backcite {DelFabbro2013}{{18}{1}{chapter.1}}
+\backcite {Kayal2015, Bernstein2017, Linard2018}{{18}{1}{chapter.1}}
+\backcite {Kayal2015, Bernstein2017, Linard2018}{{18}{1}{chapter.1}}
+\backcite {Kayal2015, Bernstein2017, Linard2018}{{18}{1}{chapter.1}}
+\backcite {Rubin2016, Wirthlin2018}{{22}{1.1}{figure.caption.10}}
+\backcite {Rubin2016, Wirthlin2018}{{22}{1.1}{figure.caption.10}}
+\backcite {Brand1997}{{31}{1.4}{section.1.4}}
+\backcite {Wanet2015}{{31}{1.4}{section.1.4}}
+\backcite {Chan2006}{{31}{1.4}{section.1.4}}
+\backcite {Gray2017}{{31}{1.4}{section.1.4}}
+\backcite {Gray1999, Kutschera2005}{{31}{1.4}{section.1.4}}
+\backcite {Gray1999, Kutschera2005}{{31}{1.4}{section.1.4}}
+\backcite {Boore1999}{{31}{1.4}{section.1.4}}
+\backcite {Adams2003}{{31}{1.4}{section.1.4}}
+\backcite {Wolstenholme1992, Boore1999}{{31}{1.4}{section.1.4}}
+\backcite {Wolstenholme1992, Boore1999}{{31}{1.4}{section.1.4}}
+\backcite {Smith2016}{{31}{1.4}{section.1.4}}
+\backcite {Finstermeier2013, Krzeminska2018}{{31}{1.4}{section.1.4}}
+\backcite {Finstermeier2013, Krzeminska2018}{{31}{1.4}{section.1.4}}
+\backcite {DoAmaral2015, Miller2016}{{32}{1.4}{section.1.4}}
+\backcite {DoAmaral2015, Miller2016}{{32}{1.4}{section.1.4}}
+\backcite {Janzen1966}{{35}{1.6}{section.1.6}}
+\backcite {Janzen1966}{{35}{1.6}{section.1.6}}
+\backcite {Ward1991}{{35}{1.6}{section.1.6}}
+\backcite {Ward1991}{{35}{1.6}{section.1.6}}
+\backcite {Janzen1966, Ward1991}{{35}{1.6}{section.1.6}}
+\backcite {Janzen1966, Ward1991}{{35}{1.6}{section.1.6}}
+\backcite {Bernt2013}{{37}{5}{figure.caption.14}}
+\backcite {Dierckxsens2016}{{41}{3.2}{section.3.2}}
+\backcite {Dierckxsens2016}{{41}{3.2}{section.3.2}}
+\backcite {Cochrane2006}{{46}{4.1}{section.4.1}}
+\backcite {Ward2015}{{63}{5.3}{section.5.3}}
+\backcite {Kayal2015, Uliano-Silva2016}{{64}{5.3}{section.5.3}}
+\backcite {Kayal2015, Uliano-Silva2016}{{64}{5.3}{section.5.3}}
+\backcite {Prosdocimi2012}{{64}{5.4}{section.5.4}}
+\backcite {Ekblom2014}{{64}{5.4}{section.5.4}}
+\backcite {Kuzniar2008}{{65}{5.4}{section.5.4}}
+\backcite {Vieira2019}{{68}{7}{chapter.7}}

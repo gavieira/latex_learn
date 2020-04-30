@@ -43,8 +43,8 @@ ISSN 03051048.}
 
 \bibitem[Bordbari et al. 2017]{Bordbari2017}
 \abntrefinfo{Bordbari et al.}{BORDBARI et al.}{2017}
-{BORDBARI, M.~H. et al. {Deletion of 2.7 kb near HOXD3 in an Arabian horse with
-  occipitoatlantoaxial malformation}.
+{BORDBARI, M.~H. et al. {Deletion of 2.7 kb near HOXD3 in an Arabian horse
+  with occipitoatlantoaxial malformation}.
 \emph{Animal Genetics}, v.~48, n.~3, p. 287--294, 2017.
 ISSN 13652052.}
 
@@ -91,6 +91,11 @@ Dispon{\'\i}vel em:
   non-model amniotes}.
 \emph{PLoS ONE}, v.~10, n.~9, p.~1--9, 2015.
 ISSN 19326203.}
+
+\bibitem[Ekblom e Wolf 2014]{Ekblom2014}
+\abntrefinfo{Ekblom e Wolf}{EKBLOM; WOLF}{2014}
+{EKBLOM, R.; WOLF, J. B.~W. \emph{{A field guide to whole-genome sequencing,
+  assembly and annotation}}. 2014. 1026--1042~p.}
 
 \bibitem[Finstermeier et al. 2013]{Finstermeier2013}
 \abntrefinfo{Finstermeier et al.}{FINSTERMEIER et al.}{2013}
@@ -164,6 +169,13 @@ ISSN 13652540.}
 \emph{Theory in Biosciences}, v.~124, n.~1, p. 1--24, 2005.
 ISSN 14317613.}
 
+\bibitem[Kuzniar et al. 2008]{Kuzniar2008}
+\abntrefinfo{Kuzniar et al.}{KUZNIAR et al.}{2008}
+{KUZNIAR, A. et al. {The quest for orthologs: finding the corresponding gene
+  across genomes}.
+\emph{Trends in Genetics}, v.~24, n.~11, p. 539--551, 2008.
+ISSN 01689525.}
+
 \bibitem[Langmead e Salzberg 2012]{Langmead2012}
 \abntrefinfo{Langmead e Salzberg}{LANGMEAD; SALZBERG}{2012}
 {LANGMEAD, B.; SALZBERG, S.~L. {Fast gapped-read alignment with Bowtie 2}.
@@ -199,6 +211,13 @@ ISSN 00280836.}
 \emph{Mitochondrial DNA}, v.~27, n.~1, p. 764--765, 2016.
 ISSN 19401744.}
 
+\bibitem[Prosdocimi et al. 2012]{Prosdocimi2012}
+\abntrefinfo{Prosdocimi et al.}{PROSDOCIMI et al.}{2012}
+{PROSDOCIMI, F. et al. {The complete mitochondrial genome of two recently
+  derived species of the fish genus Nannoperca (Perciformes, Percichthyidae)}.
+\emph{Molecular Biology Reports}, v.~39, n.~3, p. 2767--2772, 2012.
+ISSN 03014851.}
+
 \bibitem[Rubin et al. 2016]{Rubin2016}
 \abntrefinfo{Rubin et al.}{RUBIN et al.}{2016}
 {RUBIN, B. E.~R. et al. {Comparative genomics reveals convergent rates of
@@ -230,6 +249,23 @@ ISSN 0027-8424.
 Dispon{\'\i}vel em:
   \url{http://www.pnas.org/lookup/doi/10.1073/pnas.1708290115}.}
 
+\bibitem[Uliano-Silva et al. 2016]{Uliano-Silva2016}
+\abntrefinfo{Uliano-Silva et al.}{ULIANO-SILVA et al.}{2016}
+{ULIANO-SILVA, M. et al. {The complete mitochondrial genome of the golden
+  mussel Limnoperna fortunei and comparative mitogenomics of Mytilidae}.
+\emph{Gene}, Elsevier B.V., v.~577, n.~2, p. 202--208, 2016.
+ISSN 18790038.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.gene.2015.11.043}.}
+
+\bibitem[Vieira e Prosdocimi 2019]{Vieira2019}
+\abntrefinfo{Vieira e Prosdocimi}{VIEIRA; PROSDOCIMI}{2019}
+{VIEIRA, G.~A.; PROSDOCIMI, F. {Accessible molecular phylogenomics at no cost:
+  obtaining 14 new mitogenomes for the ant subfamily Pseudomyrmecinae from
+  public data}.
+\emph{PeerJ}, v.~7, p. e6271, jan 2019.
+ISSN 2167-8359.
+Dispon{\'\i}vel em: \url{https://peerj.com/articles/6271}.}
+
 \bibitem[Wanet et al. 2015]{Wanet2015}
 \abntrefinfo{Wanet et al.}{WANET et al.}{2015}
 {WANET, A. et al. {Connecting Mitochondria, Metabolism, and Stem Cell Fate}.
@@ -242,6 +278,13 @@ Dispon{\'\i}vel em:
 \abntrefinfo{Ward}{WARD}{1991}
 {WARD, P.~S. \emph{{Phylogenetic analysis of pseudomyrmecine ants associated
   with domatia-bearing plants}}. 1991.}
+
+\bibitem[Ward et al. 2015]{Ward2015}
+\abntrefinfo{Ward et al.}{WARD et al.}{2015}
+{WARD, P.~S. et al. {The evolution of myrmicine ants: Phylogeny and
+  biogeography of a hyperdiverse ant clade (Hymenoptera: Formicidae)}.
+\emph{Systematic Entomology}, v.~40, n.~1, p. 61--81, 2015.
+ISSN 13653113.}
 
 \bibitem[Wirthlin et al. 2018]{Wirthlin2018}
 \abntrefinfo{Wirthlin et al.}{WIRTHLIN et al.}{2018}
