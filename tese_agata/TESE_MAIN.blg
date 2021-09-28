@@ -1,0 +1,170 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Arch Linux)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: DISSERTACAO_MAIN.aux
+The style file: abntex2-alf.bst
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated wiz_functions (elt_size=8) to 9000 items from 6000.
+Database file #1: abntex2-options.bib
+Database file #2: library.bib
+Repeated entry---line 673 of file library.bib
+ : @article{Rubin2016
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1499 of file library.bib
+ : @article{Langmead2012
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1914 of file library.bib
+ : @article{Goodwin2016
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2573 of file library.bib
+ : @article{Smith2016
+ :                   ,
+I'm skipping whatever remains of this entry
+"}" immediately follows an entry type---line 2574 of file library.bib
+ : abstract = {Next-generation sequencing technologies have revolutionized genomics and altered the scientific publication landscape. Life-science journals abound with genome papers-peer-reviewed descriptions of newly sequenced chromosomes. Although they once filled the pages of Nature and Science, genome papers are now mostly relegated to journals with low-impact factors. Some have forecast the death of the genome paper and argued that they are using up valuable resources and not advancing science. However, the publication rate of genome papers is on the rise. This increase is largely because some journals have created a new category of manuscript called genome reports, which are short, fast-tracked papers describing a chromosome sequence(s), its GenBank accession number and little else. In 2015, for example, more than 2000 genome reports were published, and 2016 is poised to bring even more. Here, I highlight the growing popularity of genome reports and discuss their merits, drawbacks and impact on science and the academic publication infrastructure. Genome reports can be excellent assets for the research community, but they are also being used as quick and easy routes to a publication , and in some instances they are not peer reviewed. One of the best arguments for genome reports is that they are a citable, user-generated genomic resource providing essential methodological and biological information, which may not be present in the sequence database. But they are expensive and time-consuming avenues for achieving such a goal. Birth of the genome paper Nearly four decades ago, Sanger et al. [1] decoded, for the first time, the entire DNA sequence of a genome, that of the bacterio-phage UX174. This historic achievement also marked the inception of a new genre of scientific article: the genome paper. It would take another 4 years before scientists sequenced and published a human chromosome-our mitochondrial genome [2]-and an additional 15 years for the arrival of a nuclear gen-ome paper (yeast) [3]. These and other pioneering genome sequences , such as that of Haemophilus influenzae [4], had a massive and lasting impact on life-science research. The human mitochondrial genome paper [2], for example, has been cited more than 8000 times. By the turn of the millennium, genome papers were fast becoming among the most publicized and cited articles within the scientific literature. The simultaneously published articles describing the human genome [5, 6] topped Thomson Reuters' Science Watch list of 'hot papers' in biology of 2001 [7]. These same articles were also widely covered by scientific and popular news media, which has become a recurring theme for genome papers of all stripes. Just think of all the university press releases , journal editorials and news stories that you have read David Roy Smith is an assistant professor of biology at the University of Western Ontario. He studies genome evolution of eukaryotic microbes, and can be found online at www.arrogantgenome.com and @arrogantgenome.
+ :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   },
+I'm skipping whatever remains of this entry
+Repeated entry---line 3532 of file library.bib
+ : @article{Vieira2019
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4583 of file library.bib
+ : @article{Bernt2013
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4707 of file library.bib
+ : @article{Bordbari2017
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5048 of file library.bib
+ : @article{Gray2017
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5596 of file library.bib
+ : @article{Cochrane2006
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5643 of file library.bib
+ : @misc{Gray1999
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5837 of file library.bib
+ : @article{Wirthlin2018
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5955 of file library.bib
+ : @article{Karsch-Mizrachi2018
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6528 of file library.bib
+ : @article{Kodama2012
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6724 of file library.bib
+ : @article{Simpson2009
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7297 of file library.bib
+ : @article{Stodden2018
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7454 of file library.bib
+ : @article{Wanet2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7757 of file library.bib
+ : @article{Kayal2015
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8143 of file library.bib
+ : @article{Chan2006
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 8748 of file library.bib
+ : @article{Bolger2014
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9109 of file library.bib
+ : @article{Bernstein2017
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 9247 of file library.bib
+ : @article{Miller2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10182 of file library.bib
+ : @article{Kutschera2005
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10276 of file library.bib
+ : @article{Brand1997
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10567 of file library.bib
+ : @article{Boore1999
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10595 of file library.bib
+ : @article{Adams2003
+ :                   ,
+I'm skipping whatever remains of this entry
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=8) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=8) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.7           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 42 entries,
+            6714 wiz_defined-function locations,
+            1538 strings with 22928 characters,
+and the built_in function-call counts, 51051 in all, are:
+= -- 4991
+> -- 1512
+< -- 802
++ -- 1289
+- -- 443
+* -- 3642
+:= -- 6491
+add.period$ -- 172
+call.type$ -- 42
+change.case$ -- 504
+chr.to.int$ -- 132
+cite$ -- 41
+duplicate$ -- 3844
+empty$ -- 2464
+format.name$ -- 2161
+if$ -- 11013
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 738
+newline$ -- 258
+num.names$ -- 205
+pop$ -- 896
+preamble$ -- 1
+purify$ -- 185
+quote$ -- 0
+skip$ -- 3947
+stack$ -- 1
+substring$ -- 2401
+swap$ -- 1704
+text.length$ -- 104
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 347
+width$ -- 0
+write$ -- 721
+(There were 26 error messages)

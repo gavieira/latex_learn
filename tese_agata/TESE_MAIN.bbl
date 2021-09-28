@@ -1,0 +1,304 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Adams e Palmer 2003]{Adams2003}
+\abntrefinfo{Adams e Palmer}{ADAMS; PALMER}{2003}
+{ADAMS, K.~L.; PALMER, J.~D. {Evolution of mitochondrial gene content: Gene
+  loss and transfer to the nucleus}.
+\emph{Molecular Phylogenetics and Evolution}, v.~29, n.~3, p. 380--395, 2003.
+ISSN 10557903.}
+
+\bibitem[Bernstein, Doan e Dewey 2017]{Bernstein2017}
+\abntrefinfo{Bernstein, Doan e Dewey}{BERNSTEIN; DOAN; DEWEY}{2017}
+{BERNSTEIN, M.~N.; DOAN, A.; DEWEY, C.~N. {MetaSRA: Normalized human
+  sample-specific metadata for the Sequence Read Archive}.
+\emph{Bioinformatics}, v.~33, n.~18, p. 2914--2923, 2017.
+ISSN 14602059.}
+
+\bibitem[Bernt et al. 2013]{Bernt2013}
+\abntrefinfo{Bernt et al.}{BERNT et al.}{2013}
+{BERNT, M. et al. {MITOS: Improved de novo metazoan mitochondrial genome
+  annotation}.
+\emph{Molecular Phylogenetics and Evolution}, Elsevier Inc., v.~69, n.~2, p.
+  313--319, 2013.
+ISSN 10557903.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.ympev.2012.08.023}.}
+
+\bibitem[Bolger, Lohse e Usadel 2014]{Bolger2014}
+\abntrefinfo{Bolger, Lohse e Usadel}{BOLGER; LOHSE; USADEL}{2014}
+{BOLGER, A.~M.; LOHSE, M.; USADEL, B. {Trimmomatic: A flexible trimmer for
+  Illumina sequence data}.
+\emph{Bioinformatics}, v.~30, n.~15, p. 2114--2120, 2014.
+ISSN 14602059.}
+
+\bibitem[Boore 1999]{Boore1999}
+\abntrefinfo{Boore}{BOORE}{1999}
+{BOORE, J.~L. {Animal mitochondrial genomes}.
+\emph{Nucleic Acids Research}, v.~27, n.~8, p. 1767--1780, 1999.
+ISSN 03051048.}
+
+\bibitem[Bordbari et al. 2017]{Bordbari2017}
+\abntrefinfo{Bordbari et al.}{BORDBARI et al.}{2017}
+{BORDBARI, M.~H. et al. {Deletion of 2.7 kb near HOXD3 in an Arabian horse
+  with occipitoatlantoaxial malformation}.
+\emph{Animal Genetics}, v.~48, n.~3, p. 287--294, 2017.
+ISSN 13652052.}
+
+\bibitem[Brand 1997]{Brand1997}
+\abntrefinfo{Brand}{BRAND}{1997}
+{BRAND, M.~D. {Regulation analysis of energy metabolism.}
+\emph{The Journal of experimental biology}, v.~200, n.~Pt 2, p. 193--202, 1997.
+ISSN 0022-0949.
+Dispon{\'\i}vel em: \url{http://www.ncbi.nlm.nih.gov/pubmed/9050227}.}
+
+\bibitem[Chan 2006]{Chan2006}
+\abntrefinfo{Chan}{CHAN}{2006}
+{CHAN, D.~C. {Mitochondria: Dynamic Organelles in Disease, Aging, and
+  Development}.
+\emph{Cell}, v.~125, n.~7, p. 1241--1252, 2006.
+ISSN 00928674.}
+
+\bibitem[Cochrane et al. 2006]{Cochrane2006}
+\abntrefinfo{Cochrane et al.}{COCHRANE et al.}{2006}
+{COCHRANE, G. et al. {Evidence Standards in Experimental and Inferential INSDC
+  Third Party Annotation Data}.
+\emph{OMICS A Journal of Integrative Biology}, v.~10, n.~2, 2006.}
+
+\bibitem[{Del Fabbro} et al. 2013]{DelFabbro2013}
+\abntrefinfo{{Del Fabbro} et al.}{{Del Fabbro} et al.}{2013}
+{{Del Fabbro}, C. et al. {An extensive evaluation of read trimming effects on
+  illumina NGS data analysis}.
+\emph{PLoS ONE}, 2013.
+ISSN 19326203.}
+
+\bibitem[Dierckxsens, Mardulyn e Smits 2016]{Dierckxsens2016}
+\abntrefinfo{Dierckxsens, Mardulyn e Smits}{DIERCKXSENS; MARDULYN; SMITS}{2016}
+{DIERCKXSENS, N.; MARDULYN, P.; SMITS, G. {NOVOPlasty: de novo assembly of
+  organelle genomes from whole genome data}.
+\emph{Nucleic Acids Research}, v.~45, n.~4, p. gkw955, 2016.
+ISSN 0305-1048.
+Dispon{\'\i}vel em:
+  \url{https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gkw955}.}
+
+\bibitem[{Do Amaral} et al. 2015]{DoAmaral2015}
+\abntrefinfo{{Do Amaral} et al.}{{Do Amaral} et al.}{2015}
+{{Do Amaral}, F.~R. et al. {Ultraconserved elements sequencing as a low-cost
+  source of complete mitochondrial genomes and microsatellite markers in
+  non-model amniotes}.
+\emph{PLoS ONE}, v.~10, n.~9, p.~1--9, 2015.
+ISSN 19326203.}
+
+\bibitem[Ekblom e Wolf 2014]{Ekblom2014}
+\abntrefinfo{Ekblom e Wolf}{EKBLOM; WOLF}{2014}
+{EKBLOM, R.; WOLF, J. B.~W. \emph{{A field guide to whole-genome sequencing,
+  assembly and annotation}}. 2014. 1026--1042~p.}
+
+\bibitem[Finstermeier et al. 2013]{Finstermeier2013}
+\abntrefinfo{Finstermeier et al.}{FINSTERMEIER et al.}{2013}
+{FINSTERMEIER, K. et al. {A Mitogenomic Phylogeny of Living Primates}.
+\emph{PLoS ONE}, 2013.
+ISSN 19326203.}
+
+\bibitem[Goodwin, McPherson e McCombie 2016]{Goodwin2016}
+\abntrefinfo{Goodwin, McPherson e McCombie}{GOODWIN; MCPHERSON; MCCOMBIE}{2016}
+{GOODWIN, S.; MCPHERSON, J.~D.; MCCOMBIE, W.~R. {Coming of age: Ten years of
+  next-generation sequencing technologies}.
+\emph{Nature Reviews Genetics}, Nature Publishing Group, v.~17, n.~6, p.
+  333--351, 2016.
+ISSN 14710064.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1038/nrg.2016.49}.}
+
+\bibitem[Gray 2017]{Gray2017}
+\abntrefinfo{Gray}{GRAY}{2017}
+{GRAY, M.~W. {Lynn Margulis and the endosymbiont hypothesis: 50 years later}.
+\emph{Molecular Biology of the Cell}, v.~28, n.~10, p. 1285--1287, 2017.
+ISSN 1059-1524.
+Dispon{\'\i}vel em:
+  \url{http://www.molbiolcell.org/lookup/doi/10.1091/mbc.E16-07-0509}.}
+
+\bibitem[Gray, Burger e Lang 1999]{Gray1999}
+\abntrefinfo{Gray, Burger e Lang}{GRAY; BURGER; LANG}{1999}
+{GRAY, M.~W.; BURGER, G.; LANG, B.~F. \emph{{Mitochondrial evolution}}. 1999.}
+
+\bibitem[Janzen 1966]{Janzen1966}
+\abntrefinfo{Janzen}{JANZEN}{1966}
+{JANZEN, D.~H. {Coevolution of Mutualism Between Ants and Acacias in Central
+  America}.
+\emph{Evolution}, 1966.
+ISSN 00143820.}
+
+\bibitem[Karsch-Mizrachi, Takagi e Cochrane 2018]{Karsch-Mizrachi2018}
+\abntrefinfo{Karsch-Mizrachi, Takagi e Cochrane}{KARSCH-MIZRACHI; TAKAGI;
+  COCHRANE}{2018}
+{KARSCH-MIZRACHI, I.; TAKAGI, T.; COCHRANE, G. {The international nucleotide
+  sequence database collaboration}.
+\emph{Nucleic Acids Research}, v.~46, n.~D1, p. D48--D51, 2018.
+ISSN 13624962.}
+
+\bibitem[Kayal et al. 2015]{Kayal2015}
+\abntrefinfo{Kayal et al.}{KAYAL et al.}{2015}
+{KAYAL, E. et al. {Phylogenetic analysis of higher-level relationships within
+  Hydroidolina (Cnidaria: Hydrozoa) using mitochondrial genome data and insight
+  into their mitochondrial transcription}.
+\emph{PeerJ}, v.~3, p. e1403, 2015.
+ISSN 2167-8359.
+Dispon{\'\i}vel em: \url{https://peerj.com/articles/1403}.}
+
+\bibitem[Kodama, Shumway e Leinonen 2012]{Kodama2012}
+\abntrefinfo{Kodama, Shumway e Leinonen}{KODAMA; SHUMWAY; LEINONEN}{2012}
+{KODAMA, Y.; SHUMWAY, M.; LEINONEN, R. {The sequence read archive: Explosive
+  growth of sequencing data}.
+\emph{Nucleic Acids Research}, v.~40, n.~D1, p. 2011--2013, 2012.
+ISSN 03051048.}
+
+\bibitem[Krzemi{\'{n}}ska et al. 2018]{Krzeminska2018}
+\abntrefinfo{Krzemi{\'{n}}ska et al.}{KRZEMI{\'{N}}SKA et al.}{2018}
+{KRZEMI{\'{N}}SKA, U. et al. {Population mitogenomics provides insights into
+  evolutionary history, source of invasions and diversifying selection in the
+  House Crow (Corvus splendens)}.
+\emph{Heredity}, 2018.
+ISSN 13652540.}
+
+\bibitem[Kutschera e Niklas 2005]{Kutschera2005}
+\abntrefinfo{Kutschera e Niklas}{KUTSCHERA; NIKLAS}{2005}
+{KUTSCHERA, U.; NIKLAS, K.~J. {Endosymbiosis, cell evolution, and speciation}.
+\emph{Theory in Biosciences}, v.~124, n.~1, p. 1--24, 2005.
+ISSN 14317613.}
+
+\bibitem[Kuzniar et al. 2008]{Kuzniar2008}
+\abntrefinfo{Kuzniar et al.}{KUZNIAR et al.}{2008}
+{KUZNIAR, A. et al. {The quest for orthologs: finding the corresponding gene
+  across genomes}.
+\emph{Trends in Genetics}, v.~24, n.~11, p. 539--551, 2008.
+ISSN 01689525.}
+
+\bibitem[Langmead e Salzberg 2012]{Langmead2012}
+\abntrefinfo{Langmead e Salzberg}{LANGMEAD; SALZBERG}{2012}
+{LANGMEAD, B.; SALZBERG, S.~L. {Fast gapped-read alignment with Bowtie 2}.
+\emph{Nature Methods}, v.~9, n.~4, p. 357--359, 2012.
+ISSN 15487091.}
+
+\bibitem[Linard et al. 2018]{Linard2018}
+\abntrefinfo{Linard et al.}{LINARD et al.}{2018}
+{LINARD, B. et al. {The contribution of mitochondrial metagenomics to
+  largescale data mining and phylogenetic analysis of Coleoptera}.
+\emph{bioRxiv}, n. March, p. 280792, 2018.
+Dispon{\'\i}vel em:
+  \url{https://www.biorxiv.org/content/early/2018/03/12/280792.figures-only}.}
+
+\bibitem[Mardis 2008]{Mardis2008}
+\abntrefinfo{Mardis}{MARDIS}{2008}
+{MARDIS, E.~R. {The impact of next-generation sequencing technology on
+  genetics}.
+\emph{Trends in Genetics}, v.~24, n.~3, p. 133--141, 2008.
+ISSN 01689525.}
+
+\bibitem[Margulies et al. 2005]{Margulies2005}
+\abntrefinfo{Margulies et al.}{MARGULIES et al.}{2005}
+{MARGULIES, M. et al. {Genome sequencing in microfabricated high-density
+  picolitre reactors}.
+\emph{Nature}, 2005.
+ISSN 00280836.}
+
+\bibitem[Miller et al. 2016]{Miller2016}
+\abntrefinfo{Miller et al.}{MILLER et al.}{2016}
+{MILLER, M.~J. et al. {Complete mitochondrial genomes of the New World jacanas:
+  Jacana spinosa and Jacana jacana}.
+\emph{Mitochondrial DNA}, v.~27, n.~1, p. 764--765, 2016.
+ISSN 19401744.}
+
+\bibitem[Prosdocimi et al. 2012]{Prosdocimi2012}
+\abntrefinfo{Prosdocimi et al.}{PROSDOCIMI et al.}{2012}
+{PROSDOCIMI, F. et al. {The complete mitochondrial genome of two recently
+  derived species of the fish genus Nannoperca (Perciformes, Percichthyidae)}.
+\emph{Molecular Biology Reports}, v.~39, n.~3, p. 2767--2772, 2012.
+ISSN 03014851.}
+
+\bibitem[Rubin et al. 2016]{Rubin2016}
+\abntrefinfo{Rubin et al.}{RUBIN et al.}{2016}
+{RUBIN, B. E.~R. et al. {Comparative genomics reveals convergent rates of
+  evolution in ant–plant mutualisms}.
+\emph{Nature Communications}, Nature Publishing Group, v.~7, p. 12679, 2016.
+ISSN 2041-1723.
+Dispon{\'\i}vel em: \url{http://www.nature.com/doifinder/10.1038/ncomms12679}.}
+
+\bibitem[Simpson et al. 2009]{Simpson2009}
+\abntrefinfo{Simpson et al.}{SIMPSON et al.}{2009}
+{SIMPSON, J.~T. et al. {ABySS : A parallel assembler for short read sequence
+  data ABySS : A parallel assembler for short read sequence data}.
+p. 1117--1123, 2009.}
+
+\bibitem[Smith 2016]{Smith2016}
+\abntrefinfo{Smith}{SMITH}{2016}
+{SMITH, D.~R. {Goodbye genome paper, hello genome report: the increasing
+  popularity of 'genome announcements' and their impact on science}.
+\emph{Briefings in Functional Genomics}, v.~16, n.~3, p. 156--162, 2016.
+Dispon{\'\i}vel em: \url{www.arrogantgenome.com}.}
+
+\bibitem[Stodden, Seiler e Ma 2018]{Stodden2018}
+\abntrefinfo{Stodden, Seiler e Ma}{STODDEN; SEILER; MA}{2018}
+{STODDEN, V.; SEILER, J.; MA, Z. {An empirical analysis of journal policy
+  effectiveness for computational reproducibility}.
+\emph{Proceedings of the National Academy of Sciences}, v.~115, n.~11, p.
+  2584--2589, 2018.
+ISSN 0027-8424.
+Dispon{\'\i}vel em:
+  \url{http://www.pnas.org/lookup/doi/10.1073/pnas.1708290115}.}
+
+\bibitem[Uliano-Silva et al. 2016]{Uliano-Silva2016}
+\abntrefinfo{Uliano-Silva et al.}{ULIANO-SILVA et al.}{2016}
+{ULIANO-SILVA, M. et al. {The complete mitochondrial genome of the golden
+  mussel Limnoperna fortunei and comparative mitogenomics of Mytilidae}.
+\emph{Gene}, Elsevier B.V., v.~577, n.~2, p. 202--208, 2016.
+ISSN 18790038.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1016/j.gene.2015.11.043}.}
+
+\bibitem[Vieira e Prosdocimi 2019]{Vieira2019}
+\abntrefinfo{Vieira e Prosdocimi}{VIEIRA; PROSDOCIMI}{2019}
+{VIEIRA, G.~A.; PROSDOCIMI, F. {Accessible molecular phylogenomics at no cost:
+  obtaining 14 new mitogenomes for the ant subfamily Pseudomyrmecinae from
+  public data}.
+\emph{PeerJ}, v.~7, p. e6271, jan 2019.
+ISSN 2167-8359.
+Dispon{\'\i}vel em: \url{https://peerj.com/articles/6271}.}
+
+\bibitem[Wanet et al. 2015]{Wanet2015}
+\abntrefinfo{Wanet et al.}{WANET et al.}{2015}
+{WANET, A. et al. {Connecting Mitochondria, Metabolism, and Stem Cell Fate}.
+\emph{Stem Cells and Development}, v.~24, n.~17, p. 1957--1971, 2015.
+ISSN 1547-3287.
+Dispon{\'\i}vel em:
+  \url{http://online.liebertpub.com/doi/10.1089/scd.2015.0117}.}
+
+\bibitem[Ward 1991]{Ward1991}
+\abntrefinfo{Ward}{WARD}{1991}
+{WARD, P.~S. \emph{{Phylogenetic analysis of pseudomyrmecine ants associated
+  with domatia-bearing plants}}. 1991.}
+
+\bibitem[Ward et al. 2015]{Ward2015}
+\abntrefinfo{Ward et al.}{WARD et al.}{2015}
+{WARD, P.~S. et al. {The evolution of myrmicine ants: Phylogeny and
+  biogeography of a hyperdiverse ant clade (Hymenoptera: Formicidae)}.
+\emph{Systematic Entomology}, v.~40, n.~1, p. 61--81, 2015.
+ISSN 13653113.}
+
+\bibitem[Wirthlin et al. 2018]{Wirthlin2018}
+\abntrefinfo{Wirthlin et al.}{WIRTHLIN et al.}{2018}
+{WIRTHLIN, M. et al. {Parrot Genomes and the Evolution of Heightened Longevity
+  and Cognition}.
+\emph{Current Biology}, p.~1--8, 2018.
+ISSN 09609822.
+Dispon{\'\i}vel em:
+  \url{https://linkinghub.elsevier.com/retrieve/pii/S0960982218314179}.}
+
+\bibitem[Wolstenholme 1992]{Wolstenholme1992}
+\abntrefinfo{Wolstenholme}{WOLSTENHOLME}{1992}
+{WOLSTENHOLME, D.~R. {Animal Mitochondrial DNA: Structure and Evolution}.
+\emph{International Review of Cytology}, v.~141, n.~C, p. 173--216, 1992.
+ISSN 00747696.}
+
+\end{thebibliography}
